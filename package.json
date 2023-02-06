@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "chart.js": "^3.7.1",
+    "chartjs-chart-geo": "^3.7.2",
+    "sweetalert2": "^11.4.18"
+  }
+}

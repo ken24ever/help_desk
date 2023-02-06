@@ -1,0 +1,674 @@
+[10-Jan-2023 14:17:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'help_desk_1234'@'localhost' (using password: YES) in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[10-Jan-2023 14:17:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/edoictas/public_html/helpdesk/getMDAs.php on line 10
+[10-Jan-2023 14:17:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/edoictas/public_html/helpdesk/getMDAs.php on line 11
+[10-Jan-2023 14:17:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'help_desk_1234'@'localhost' (using password: YES) in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[10-Jan-2023 14:17:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/edoictas/public_html/helpdesk/getMDAs.php on line 10
+[10-Jan-2023 14:17:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/edoictas/public_html/helpdesk/getMDAs.php on line 11
+[10-Jan-2023 14:17:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'help_desk_1234'@'localhost' (using password: YES) in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[10-Jan-2023 14:17:55 UTC] PHP Warning:  mysqli_stmt_init() expects parameter 1 to be mysqli, bool given in /home/edoictas/public_html/helpdesk/confirmEmail.php on line 33
+[10-Jan-2023 14:17:55 UTC] PHP Warning:  mysqli_stmt_prepare() expects parameter 1 to be mysqli_stmt, null given in /home/edoictas/public_html/helpdesk/confirmEmail.php on line 34
+[10-Jan-2023 14:17:55 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/edoictas/public_html/helpdesk/confirmEmail.php on line 95
+[10-Jan-2023 14:18:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'help_desk_1234'@'localhost' (using password: YES) in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[10-Jan-2023 14:18:07 UTC] PHP Warning:  mysqli_stmt_init() expects parameter 1 to be mysqli, bool given in /home/edoictas/public_html/helpdesk/login.php on line 34
+[10-Jan-2023 14:18:07 UTC] PHP Warning:  mysqli_stmt_prepare() expects parameter 1 to be mysqli_stmt, null given in /home/edoictas/public_html/helpdesk/login.php on line 35
+[10-Jan-2023 14:18:07 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/edoictas/public_html/helpdesk/login.php on line 116
+[10-Jan-2023 14:29:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[10-Jan-2023 14:31:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[10-Jan-2023 14:31:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[10-Jan-2023 14:32:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[10-Jan-2023 14:32:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[10-Jan-2023 14:34:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[10-Jan-2023 14:35:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[10-Jan-2023 14:36:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[10-Jan-2023 14:36:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[10-Jan-2023 14:36:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[10-Jan-2023 14:37:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:00:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:00:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:00:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:00:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:09:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:09:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:09:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:09:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:10:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/confirmEmail.php(14): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[11-Jan-2023 08:10:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/getMDAs.php(7): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[11-Jan-2023 08:10:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/getMDAs.php(7): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[11-Jan-2023 08:10:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/confirmEmail.php(14): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[11-Jan-2023 08:10:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/login.php(14): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[11-Jan-2023 08:11:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/getMDAs.php(7): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[11-Jan-2023 08:11:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/getMDAs.php(7): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[11-Jan-2023 08:11:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/confirmEmail.php(14): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[11-Jan-2023 08:11:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/login.php(14): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[11-Jan-2023 08:11:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/getMDAs.php(7): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[11-Jan-2023 08:11:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/getMDAs.php(7): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[11-Jan-2023 08:11:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/confirmEmail.php(14): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[11-Jan-2023 08:11:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/updatePassword.php(14): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[11-Jan-2023 08:11:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/updatePassword.php(14): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[11-Jan-2023 08:12:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:12:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:12:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:12:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:12:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:12:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:13:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:16:13 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:16:13 UTC] PHP Warning:  Undefined array key "lastName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:16:13 UTC] PHP Warning:  Undefined array key "firstName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:16:13 UTC] PHP Warning:  Undefined array key "access_level" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:16:13 UTC] PHP Warning:  Undefined array key "firstName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 431
+[11-Jan-2023 08:16:13 UTC] PHP Warning:  Undefined array key "middleName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 432
+[11-Jan-2023 08:16:13 UTC] PHP Warning:  Undefined array key "lastName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 433
+[11-Jan-2023 08:16:13 UTC] PHP Warning:  Undefined array key "jobTitle" in /home/edoictas/public_html/helpdesk/dashboard.php on line 438
+[11-Jan-2023 08:16:13 UTC] PHP Warning:  Undefined array key "email" in /home/edoictas/public_html/helpdesk/dashboard.php on line 443
+[11-Jan-2023 08:16:13 UTC] PHP Warning:  Undefined array key "MDA" in /home/edoictas/public_html/helpdesk/dashboard.php on line 449
+[11-Jan-2023 08:16:13 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 773
+[11-Jan-2023 08:16:13 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 785
+[11-Jan-2023 08:16:13 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 836
+[11-Jan-2023 08:16:13 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 891
+[11-Jan-2023 08:16:13 UTC] PHP Warning:  Undefined variable $link in /home/edoictas/public_html/helpdesk/dashboard.php on line 981
+[11-Jan-2023 08:16:13 UTC] PHP Warning:  Undefined variable $div in /home/edoictas/public_html/helpdesk/dashboard.php on line 982
+[11-Jan-2023 08:16:16 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:16:16 UTC] PHP Warning:  Undefined array key "lastName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:16:16 UTC] PHP Warning:  Undefined array key "firstName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:16:16 UTC] PHP Warning:  Undefined array key "access_level" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:16:16 UTC] PHP Warning:  Undefined array key "firstName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 431
+[11-Jan-2023 08:16:16 UTC] PHP Warning:  Undefined array key "middleName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 432
+[11-Jan-2023 08:16:16 UTC] PHP Warning:  Undefined array key "lastName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 433
+[11-Jan-2023 08:16:16 UTC] PHP Warning:  Undefined array key "jobTitle" in /home/edoictas/public_html/helpdesk/dashboard.php on line 438
+[11-Jan-2023 08:16:16 UTC] PHP Warning:  Undefined array key "email" in /home/edoictas/public_html/helpdesk/dashboard.php on line 443
+[11-Jan-2023 08:16:16 UTC] PHP Warning:  Undefined array key "MDA" in /home/edoictas/public_html/helpdesk/dashboard.php on line 449
+[11-Jan-2023 08:16:16 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 773
+[11-Jan-2023 08:16:16 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 785
+[11-Jan-2023 08:16:16 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 836
+[11-Jan-2023 08:16:16 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 891
+[11-Jan-2023 08:16:16 UTC] PHP Warning:  Undefined variable $link in /home/edoictas/public_html/helpdesk/dashboard.php on line 981
+[11-Jan-2023 08:16:16 UTC] PHP Warning:  Undefined variable $div in /home/edoictas/public_html/helpdesk/dashboard.php on line 982
+[11-Jan-2023 08:16:18 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:16:19 UTC] PHP Warning:  Undefined array key "lastName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:16:19 UTC] PHP Warning:  Undefined array key "firstName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:16:19 UTC] PHP Warning:  Undefined array key "access_level" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:16:19 UTC] PHP Warning:  Undefined array key "firstName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 431
+[11-Jan-2023 08:16:19 UTC] PHP Warning:  Undefined array key "middleName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 432
+[11-Jan-2023 08:16:19 UTC] PHP Warning:  Undefined array key "lastName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 433
+[11-Jan-2023 08:16:19 UTC] PHP Warning:  Undefined array key "jobTitle" in /home/edoictas/public_html/helpdesk/dashboard.php on line 438
+[11-Jan-2023 08:16:19 UTC] PHP Warning:  Undefined array key "email" in /home/edoictas/public_html/helpdesk/dashboard.php on line 443
+[11-Jan-2023 08:16:19 UTC] PHP Warning:  Undefined array key "MDA" in /home/edoictas/public_html/helpdesk/dashboard.php on line 449
+[11-Jan-2023 08:16:19 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 773
+[11-Jan-2023 08:16:19 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 785
+[11-Jan-2023 08:16:19 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 836
+[11-Jan-2023 08:16:19 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 891
+[11-Jan-2023 08:16:19 UTC] PHP Warning:  Undefined variable $link in /home/edoictas/public_html/helpdesk/dashboard.php on line 981
+[11-Jan-2023 08:16:19 UTC] PHP Warning:  Undefined variable $div in /home/edoictas/public_html/helpdesk/dashboard.php on line 982
+[11-Jan-2023 08:19:00 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:19:00 UTC] PHP Warning:  Undefined array key "lastName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:19:00 UTC] PHP Warning:  Undefined array key "firstName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:19:00 UTC] PHP Warning:  Undefined array key "access_level" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:19:00 UTC] PHP Warning:  Undefined array key "firstName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 431
+[11-Jan-2023 08:19:00 UTC] PHP Warning:  Undefined array key "middleName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 432
+[11-Jan-2023 08:19:00 UTC] PHP Warning:  Undefined array key "lastName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 433
+[11-Jan-2023 08:19:00 UTC] PHP Warning:  Undefined array key "jobTitle" in /home/edoictas/public_html/helpdesk/dashboard.php on line 438
+[11-Jan-2023 08:19:00 UTC] PHP Warning:  Undefined array key "email" in /home/edoictas/public_html/helpdesk/dashboard.php on line 443
+[11-Jan-2023 08:19:00 UTC] PHP Warning:  Undefined array key "MDA" in /home/edoictas/public_html/helpdesk/dashboard.php on line 449
+[11-Jan-2023 08:19:00 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 773
+[11-Jan-2023 08:19:00 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 785
+[11-Jan-2023 08:19:00 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 836
+[11-Jan-2023 08:19:00 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 891
+[11-Jan-2023 08:19:00 UTC] PHP Warning:  Undefined variable $link in /home/edoictas/public_html/helpdesk/dashboard.php on line 981
+[11-Jan-2023 08:19:00 UTC] PHP Warning:  Undefined variable $div in /home/edoictas/public_html/helpdesk/dashboard.php on line 982
+[11-Jan-2023 08:19:09 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:19:09 UTC] PHP Warning:  Undefined array key "lastName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:19:09 UTC] PHP Warning:  Undefined array key "firstName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:19:09 UTC] PHP Warning:  Undefined array key "access_level" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:19:09 UTC] PHP Warning:  Undefined array key "firstName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 431
+[11-Jan-2023 08:19:09 UTC] PHP Warning:  Undefined array key "middleName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 432
+[11-Jan-2023 08:19:09 UTC] PHP Warning:  Undefined array key "lastName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 433
+[11-Jan-2023 08:19:09 UTC] PHP Warning:  Undefined array key "jobTitle" in /home/edoictas/public_html/helpdesk/dashboard.php on line 438
+[11-Jan-2023 08:19:09 UTC] PHP Warning:  Undefined array key "email" in /home/edoictas/public_html/helpdesk/dashboard.php on line 443
+[11-Jan-2023 08:19:09 UTC] PHP Warning:  Undefined array key "MDA" in /home/edoictas/public_html/helpdesk/dashboard.php on line 449
+[11-Jan-2023 08:19:09 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 773
+[11-Jan-2023 08:19:09 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 785
+[11-Jan-2023 08:19:09 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 836
+[11-Jan-2023 08:19:09 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 891
+[11-Jan-2023 08:19:09 UTC] PHP Warning:  Undefined variable $link in /home/edoictas/public_html/helpdesk/dashboard.php on line 981
+[11-Jan-2023 08:19:09 UTC] PHP Warning:  Undefined variable $div in /home/edoictas/public_html/helpdesk/dashboard.php on line 982
+[11-Jan-2023 08:21:54 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:22:37 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:23:16 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:23:32 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:29:52 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:29:52 UTC] PHP Warning:  Undefined array key "lastName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:29:52 UTC] PHP Warning:  Undefined array key "firstName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:29:52 UTC] PHP Warning:  Undefined array key "access_level" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:29:52 UTC] PHP Warning:  Undefined array key "firstName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 431
+[11-Jan-2023 08:29:52 UTC] PHP Warning:  Undefined array key "middleName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 432
+[11-Jan-2023 08:29:52 UTC] PHP Warning:  Undefined array key "lastName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 433
+[11-Jan-2023 08:29:52 UTC] PHP Warning:  Undefined array key "jobTitle" in /home/edoictas/public_html/helpdesk/dashboard.php on line 438
+[11-Jan-2023 08:29:52 UTC] PHP Warning:  Undefined array key "email" in /home/edoictas/public_html/helpdesk/dashboard.php on line 443
+[11-Jan-2023 08:29:52 UTC] PHP Warning:  Undefined array key "MDA" in /home/edoictas/public_html/helpdesk/dashboard.php on line 449
+[11-Jan-2023 08:29:52 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 773
+[11-Jan-2023 08:29:52 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 785
+[11-Jan-2023 08:29:52 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 836
+[11-Jan-2023 08:29:52 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 891
+[11-Jan-2023 08:29:52 UTC] PHP Warning:  Undefined variable $link in /home/edoictas/public_html/helpdesk/dashboard.php on line 981
+[11-Jan-2023 08:29:52 UTC] PHP Warning:  Undefined variable $div in /home/edoictas/public_html/helpdesk/dashboard.php on line 982
+[11-Jan-2023 08:29:55 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:29:55 UTC] PHP Warning:  Undefined array key "lastName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:29:55 UTC] PHP Warning:  Undefined array key "firstName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:29:55 UTC] PHP Warning:  Undefined array key "access_level" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:29:55 UTC] PHP Warning:  Undefined array key "firstName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 431
+[11-Jan-2023 08:29:55 UTC] PHP Warning:  Undefined array key "middleName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 432
+[11-Jan-2023 08:29:55 UTC] PHP Warning:  Undefined array key "lastName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 433
+[11-Jan-2023 08:29:55 UTC] PHP Warning:  Undefined array key "jobTitle" in /home/edoictas/public_html/helpdesk/dashboard.php on line 438
+[11-Jan-2023 08:29:55 UTC] PHP Warning:  Undefined array key "email" in /home/edoictas/public_html/helpdesk/dashboard.php on line 443
+[11-Jan-2023 08:29:55 UTC] PHP Warning:  Undefined array key "MDA" in /home/edoictas/public_html/helpdesk/dashboard.php on line 449
+[11-Jan-2023 08:29:55 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 773
+[11-Jan-2023 08:29:55 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 785
+[11-Jan-2023 08:29:55 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 836
+[11-Jan-2023 08:29:55 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 891
+[11-Jan-2023 08:29:55 UTC] PHP Warning:  Undefined variable $link in /home/edoictas/public_html/helpdesk/dashboard.php on line 981
+[11-Jan-2023 08:29:55 UTC] PHP Warning:  Undefined variable $div in /home/edoictas/public_html/helpdesk/dashboard.php on line 982
+[11-Jan-2023 08:29:59 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:29:59 UTC] PHP Warning:  Undefined array key "lastName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:29:59 UTC] PHP Warning:  Undefined array key "firstName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:29:59 UTC] PHP Warning:  Undefined array key "access_level" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:29:59 UTC] PHP Warning:  Undefined array key "firstName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 431
+[11-Jan-2023 08:29:59 UTC] PHP Warning:  Undefined array key "middleName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 432
+[11-Jan-2023 08:29:59 UTC] PHP Warning:  Undefined array key "lastName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 433
+[11-Jan-2023 08:29:59 UTC] PHP Warning:  Undefined array key "jobTitle" in /home/edoictas/public_html/helpdesk/dashboard.php on line 438
+[11-Jan-2023 08:29:59 UTC] PHP Warning:  Undefined array key "email" in /home/edoictas/public_html/helpdesk/dashboard.php on line 443
+[11-Jan-2023 08:29:59 UTC] PHP Warning:  Undefined array key "MDA" in /home/edoictas/public_html/helpdesk/dashboard.php on line 449
+[11-Jan-2023 08:29:59 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 773
+[11-Jan-2023 08:29:59 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 785
+[11-Jan-2023 08:29:59 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 836
+[11-Jan-2023 08:29:59 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 891
+[11-Jan-2023 08:29:59 UTC] PHP Warning:  Undefined variable $link in /home/edoictas/public_html/helpdesk/dashboard.php on line 981
+[11-Jan-2023 08:29:59 UTC] PHP Warning:  Undefined variable $div in /home/edoictas/public_html/helpdesk/dashboard.php on line 982
+[11-Jan-2023 08:30:08 UTC] PHP Warning:  Undefined array key "lastName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:30:08 UTC] PHP Warning:  Undefined array key "firstName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:30:08 UTC] PHP Warning:  Undefined array key "access_level" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:30:08 UTC] PHP Warning:  Undefined array key "firstName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 431
+[11-Jan-2023 08:30:08 UTC] PHP Warning:  Undefined array key "middleName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 432
+[11-Jan-2023 08:30:08 UTC] PHP Warning:  Undefined array key "lastName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 433
+[11-Jan-2023 08:30:08 UTC] PHP Warning:  Undefined array key "jobTitle" in /home/edoictas/public_html/helpdesk/dashboard.php on line 438
+[11-Jan-2023 08:30:08 UTC] PHP Warning:  Undefined array key "email" in /home/edoictas/public_html/helpdesk/dashboard.php on line 443
+[11-Jan-2023 08:30:08 UTC] PHP Warning:  Undefined array key "MDA" in /home/edoictas/public_html/helpdesk/dashboard.php on line 449
+[11-Jan-2023 08:30:08 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 773
+[11-Jan-2023 08:30:08 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 785
+[11-Jan-2023 08:30:08 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 836
+[11-Jan-2023 08:30:08 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 891
+[11-Jan-2023 08:30:08 UTC] PHP Warning:  Undefined variable $link in /home/edoictas/public_html/helpdesk/dashboard.php on line 981
+[11-Jan-2023 08:30:08 UTC] PHP Warning:  Undefined variable $div in /home/edoictas/public_html/helpdesk/dashboard.php on line 982
+[11-Jan-2023 08:32:05 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:32:05 UTC] PHP Warning:  Undefined array key "lastName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:32:05 UTC] PHP Warning:  Undefined array key "firstName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:32:05 UTC] PHP Warning:  Undefined array key "access_level" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:32:05 UTC] PHP Warning:  Undefined array key "firstName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 431
+[11-Jan-2023 08:32:05 UTC] PHP Warning:  Undefined array key "middleName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 432
+[11-Jan-2023 08:32:05 UTC] PHP Warning:  Undefined array key "lastName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 433
+[11-Jan-2023 08:32:05 UTC] PHP Warning:  Undefined array key "jobTitle" in /home/edoictas/public_html/helpdesk/dashboard.php on line 438
+[11-Jan-2023 08:32:05 UTC] PHP Warning:  Undefined array key "email" in /home/edoictas/public_html/helpdesk/dashboard.php on line 443
+[11-Jan-2023 08:32:05 UTC] PHP Warning:  Undefined array key "MDA" in /home/edoictas/public_html/helpdesk/dashboard.php on line 449
+[11-Jan-2023 08:32:05 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 773
+[11-Jan-2023 08:32:05 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 785
+[11-Jan-2023 08:32:05 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 836
+[11-Jan-2023 08:32:05 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 891
+[11-Jan-2023 08:32:05 UTC] PHP Warning:  Undefined variable $link in /home/edoictas/public_html/helpdesk/dashboard.php on line 981
+[11-Jan-2023 08:32:05 UTC] PHP Warning:  Undefined variable $div in /home/edoictas/public_html/helpdesk/dashboard.php on line 982
+[11-Jan-2023 08:32:06 UTC] PHP Warning:  Undefined variable $issues_raised in /home/edoictas/public_html/helpdesk/chart.php on line 19
+[11-Jan-2023 08:32:06 UTC] PHP Warning:  Undefined variable $noOfOccurence in /home/edoictas/public_html/helpdesk/chart.php on line 20
+[11-Jan-2023 08:32:06 UTC] PHP Warning:  Undefined variable $getDates in /home/edoictas/public_html/helpdesk/chart.php on line 21
+[11-Jan-2023 08:32:09 UTC] PHP Warning:  Undefined variable $response in /home/edoictas/public_html/helpdesk/assignedTasks.php on line 821
+[11-Jan-2023 08:32:12 UTC] PHP Warning:  Undefined variable $response in /home/edoictas/public_html/helpdesk/assignedTasks.php on line 821
+[11-Jan-2023 08:32:15 UTC] PHP Warning:  Undefined variable $response in /home/edoictas/public_html/helpdesk/assignedTasks.php on line 821
+[11-Jan-2023 08:32:20 UTC] PHP Warning:  Undefined variable $response in /home/edoictas/public_html/helpdesk/assignedTasks.php on line 821
+[11-Jan-2023 08:32:21 UTC] PHP Warning:  Undefined variable $response in /home/edoictas/public_html/helpdesk/assignedTasks.php on line 821
+[11-Jan-2023 08:32:25 UTC] PHP Warning:  Undefined variable $response in /home/edoictas/public_html/helpdesk/assignedTasks.php on line 821
+[11-Jan-2023 08:32:28 UTC] PHP Warning:  Undefined variable $response in /home/edoictas/public_html/helpdesk/assignedTasks.php on line 821
+[11-Jan-2023 08:32:31 UTC] PHP Warning:  Undefined variable $response in /home/edoictas/public_html/helpdesk/assignedTasks.php on line 821
+[11-Jan-2023 08:32:34 UTC] PHP Warning:  Undefined variable $response in /home/edoictas/public_html/helpdesk/assignedTasks.php on line 821
+[11-Jan-2023 08:32:37 UTC] PHP Warning:  Undefined variable $response in /home/edoictas/public_html/helpdesk/assignedTasks.php on line 821
+[11-Jan-2023 08:32:41 UTC] PHP Warning:  Undefined variable $response in /home/edoictas/public_html/helpdesk/assignedTasks.php on line 821
+[11-Jan-2023 08:32:42 UTC] PHP Warning:  Undefined variable $response in /home/edoictas/public_html/helpdesk/assignedTasks.php on line 821
+[11-Jan-2023 08:32:45 UTC] PHP Warning:  Undefined variable $response in /home/edoictas/public_html/helpdesk/assignedTasks.php on line 821
+[11-Jan-2023 08:33:34 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:33:55 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:35:11 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:35:17 UTC] PHP Warning:  Undefined array key "lastName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:35:17 UTC] PHP Warning:  Undefined array key "firstName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:35:17 UTC] PHP Warning:  Undefined array key "access_level" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:35:17 UTC] PHP Warning:  Undefined array key "firstName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 431
+[11-Jan-2023 08:35:17 UTC] PHP Warning:  Undefined array key "middleName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 432
+[11-Jan-2023 08:35:17 UTC] PHP Warning:  Undefined array key "lastName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 433
+[11-Jan-2023 08:35:17 UTC] PHP Warning:  Undefined array key "jobTitle" in /home/edoictas/public_html/helpdesk/dashboard.php on line 438
+[11-Jan-2023 08:35:17 UTC] PHP Warning:  Undefined array key "email" in /home/edoictas/public_html/helpdesk/dashboard.php on line 443
+[11-Jan-2023 08:35:17 UTC] PHP Warning:  Undefined array key "MDA" in /home/edoictas/public_html/helpdesk/dashboard.php on line 449
+[11-Jan-2023 08:35:17 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 773
+[11-Jan-2023 08:35:17 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 785
+[11-Jan-2023 08:35:17 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 836
+[11-Jan-2023 08:35:17 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 891
+[11-Jan-2023 08:35:17 UTC] PHP Warning:  Undefined variable $link in /home/edoictas/public_html/helpdesk/dashboard.php on line 981
+[11-Jan-2023 08:35:17 UTC] PHP Warning:  Undefined variable $div in /home/edoictas/public_html/helpdesk/dashboard.php on line 982
+[11-Jan-2023 08:35:20 UTC] PHP Warning:  Undefined variable $issues_raised in /home/edoictas/public_html/helpdesk/chart.php on line 19
+[11-Jan-2023 08:35:20 UTC] PHP Warning:  Undefined variable $noOfOccurence in /home/edoictas/public_html/helpdesk/chart.php on line 20
+[11-Jan-2023 08:35:20 UTC] PHP Warning:  Undefined variable $getDates in /home/edoictas/public_html/helpdesk/chart.php on line 21
+[11-Jan-2023 08:35:23 UTC] PHP Warning:  Undefined variable $response in /home/edoictas/public_html/helpdesk/assignedTasks.php on line 821
+[11-Jan-2023 08:35:26 UTC] PHP Warning:  Undefined variable $response in /home/edoictas/public_html/helpdesk/assignedTasks.php on line 821
+[11-Jan-2023 08:36:11 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:36:12 UTC] PHP Warning:  Undefined array key "lastName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:36:12 UTC] PHP Warning:  Undefined array key "firstName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:36:12 UTC] PHP Warning:  Undefined array key "access_level" in /home/edoictas/public_html/helpdesk/dashboard.php on line 328
+[11-Jan-2023 08:36:12 UTC] PHP Warning:  Undefined array key "firstName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 431
+[11-Jan-2023 08:36:12 UTC] PHP Warning:  Undefined array key "middleName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 432
+[11-Jan-2023 08:36:12 UTC] PHP Warning:  Undefined array key "lastName" in /home/edoictas/public_html/helpdesk/dashboard.php on line 433
+[11-Jan-2023 08:36:12 UTC] PHP Warning:  Undefined array key "jobTitle" in /home/edoictas/public_html/helpdesk/dashboard.php on line 438
+[11-Jan-2023 08:36:12 UTC] PHP Warning:  Undefined array key "email" in /home/edoictas/public_html/helpdesk/dashboard.php on line 443
+[11-Jan-2023 08:36:12 UTC] PHP Warning:  Undefined array key "MDA" in /home/edoictas/public_html/helpdesk/dashboard.php on line 449
+[11-Jan-2023 08:36:12 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 773
+[11-Jan-2023 08:36:12 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 785
+[11-Jan-2023 08:36:12 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 836
+[11-Jan-2023 08:36:12 UTC] PHP Warning:  Undefined variable $accessLevel in /home/edoictas/public_html/helpdesk/dashboard.php on line 891
+[11-Jan-2023 08:36:12 UTC] PHP Warning:  Undefined variable $link in /home/edoictas/public_html/helpdesk/dashboard.php on line 981
+[11-Jan-2023 08:36:12 UTC] PHP Warning:  Undefined variable $div in /home/edoictas/public_html/helpdesk/dashboard.php on line 982
+[11-Jan-2023 08:36:12 UTC] PHP Warning:  Undefined variable $issues_raised in /home/edoictas/public_html/helpdesk/chart.php on line 19
+[11-Jan-2023 08:36:12 UTC] PHP Warning:  Undefined variable $noOfOccurence in /home/edoictas/public_html/helpdesk/chart.php on line 20
+[11-Jan-2023 08:36:12 UTC] PHP Warning:  Undefined variable $getDates in /home/edoictas/public_html/helpdesk/chart.php on line 21
+[11-Jan-2023 08:36:15 UTC] PHP Warning:  Undefined variable $response in /home/edoictas/public_html/helpdesk/assignedTasks.php on line 821
+[11-Jan-2023 08:36:19 UTC] PHP Warning:  Undefined variable $response in /home/edoictas/public_html/helpdesk/assignedTasks.php on line 821
+[11-Jan-2023 08:38:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:40:26 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:40:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:41:04 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 08:41:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 09:09:09 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 10:07:38 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/edoictas/public_html/helpdesk/processPA.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/edoictas/public_html/helpdesk/processPA.php on line 36
+[11-Jan-2023 10:11:04 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 10:39:34 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 12:00:14 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 12:06:17 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 12:21:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 12:22:11 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 12:24:04 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 12:30:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 12:33:20 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 12:37:53 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 12:38:39 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/edoictas/public_html/helpdesk/processPA.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/edoictas/public_html/helpdesk/processPA.php on line 36
+[11-Jan-2023 12:40:44 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/edoictas/public_html/helpdesk/reassignTasks.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/edoictas/public_html/helpdesk/reassignTasks.php on line 36
+[11-Jan-2023 12:41:02 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/edoictas/public_html/helpdesk/reassignTasks.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/edoictas/public_html/helpdesk/reassignTasks.php on line 36
+[11-Jan-2023 12:43:37 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 12:46:13 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 12:46:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 12:52:30 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/edoictas/public_html/helpdesk/processPA.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/edoictas/public_html/helpdesk/processPA.php on line 36
+[11-Jan-2023 12:53:58 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/edoictas/public_html/helpdesk/reassignTasks.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/edoictas/public_html/helpdesk/reassignTasks.php on line 36
+[11-Jan-2023 15:13:17 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 15:16:56 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 15:17:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[11-Jan-2023 15:22:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[12-Jan-2023 08:29:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[12-Jan-2023 09:41:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/excel.php on line 88
+[12-Jan-2023 09:41:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/excel.php on line 89
+[12-Jan-2023 09:41:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/excel.php on line 88
+[12-Jan-2023 09:41:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/excel.php on line 89
+[12-Jan-2023 09:42:49 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[12-Jan-2023 09:44:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/excel.php on line 88
+[12-Jan-2023 09:44:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/excel.php on line 89
+[12-Jan-2023 09:51:43 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:2) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[12-Jan-2023 09:52:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:2) in /home/edoictas/public_html/helpdesk/excel.php on line 88
+[12-Jan-2023 09:52:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:2) in /home/edoictas/public_html/helpdesk/excel.php on line 89
+[12-Jan-2023 09:52:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:2) in /home/edoictas/public_html/helpdesk/excel.php on line 88
+[12-Jan-2023 09:52:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:2) in /home/edoictas/public_html/helpdesk/excel.php on line 89
+[12-Jan-2023 09:54:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[12-Jan-2023 09:55:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/edoictas/public_html/helpdesk/login.php on line 69
+[12-Jan-2023 09:57:20 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[12-Jan-2023 09:57:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[12-Jan-2023 09:58:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/countRows.php(11): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[12-Jan-2023 09:58:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/trayReport.php(28): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[12-Jan-2023 09:58:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/assignedTasks.php(25): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[12-Jan-2023 09:58:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/countRows.php(11): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[12-Jan-2023 09:58:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/totalTickets.php(4): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[12-Jan-2023 09:58:32 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[12-Jan-2023 09:58:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/excel.php on line 88
+[12-Jan-2023 09:58:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/excel.php on line 89
+[12-Jan-2023 10:22:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[12-Jan-2023 10:23:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/excel.php on line 88
+[12-Jan-2023 10:23:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/excel.php on line 89
+[12-Jan-2023 10:31:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/excel.php on line 88
+[12-Jan-2023 10:31:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/excel.php on line 89
+[12-Jan-2023 10:33:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/excel.php on line 88
+[12-Jan-2023 10:33:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/excel.php on line 89
+[12-Jan-2023 10:33:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/excel.php on line 88
+[12-Jan-2023 10:33:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/excel.php on line 89
+[12-Jan-2023 10:36:35 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:2) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[12-Jan-2023 10:36:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:2) in /home/edoictas/public_html/helpdesk/excel.php on line 88
+[12-Jan-2023 10:36:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:2) in /home/edoictas/public_html/helpdesk/excel.php on line 89
+[12-Jan-2023 10:43:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:2) in /home/edoictas/public_html/helpdesk/excel.php on line 88
+[12-Jan-2023 10:43:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:2) in /home/edoictas/public_html/helpdesk/excel.php on line 89
+[12-Jan-2023 10:46:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:2) in /home/edoictas/public_html/helpdesk/excel.php on line 88
+[12-Jan-2023 10:46:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:2) in /home/edoictas/public_html/helpdesk/excel.php on line 89
+[12-Jan-2023 10:47:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:2) in /home/edoictas/public_html/helpdesk/excel.php on line 88
+[12-Jan-2023 10:47:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:2) in /home/edoictas/public_html/helpdesk/excel.php on line 89
+[12-Jan-2023 11:37:34 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[12-Jan-2023 11:40:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[12-Jan-2023 12:29:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[12-Jan-2023 12:29:37 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[12-Jan-2023 12:30:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[12-Jan-2023 12:38:19 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[12-Jan-2023 12:41:11 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[12-Jan-2023 12:54:34 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[12-Jan-2023 12:55:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[12-Jan-2023 12:57:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[12-Jan-2023 14:00:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[12-Jan-2023 14:14:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[12-Jan-2023 14:17:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[12-Jan-2023 14:20:39 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[12-Jan-2023 14:23:05 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/edoictas/public_html/helpdesk/processPA.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/edoictas/public_html/helpdesk/processPA.php on line 36
+[12-Jan-2023 14:30:30 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/edoictas/public_html/helpdesk/reassignTasks.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/edoictas/public_html/helpdesk/reassignTasks.php on line 36
+[12-Jan-2023 14:33:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[13-Jan-2023 06:39:19 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/edoictas/public_html/helpdesk/processPA.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/edoictas/public_html/helpdesk/processPA.php on line 36
+[13-Jan-2023 08:43:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[13-Jan-2023 09:01:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[13-Jan-2023 09:24:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[13-Jan-2023 09:29:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[13-Jan-2023 10:42:17 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[16-Jan-2023 07:59:21 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[16-Jan-2023 08:01:37 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[16-Jan-2023 08:17:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[16-Jan-2023 09:12:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[16-Jan-2023 09:22:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[16-Jan-2023 09:56:49 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[16-Jan-2023 10:45:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[16-Jan-2023 10:48:13 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/edoictas/public_html/helpdesk/processPA.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/edoictas/public_html/helpdesk/processPA.php on line 36
+[16-Jan-2023 10:53:23 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[16-Jan-2023 12:16:32 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[16-Jan-2023 12:19:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[16-Jan-2023 12:22:20 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[16-Jan-2023 13:14:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[16-Jan-2023 13:38:13 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[16-Jan-2023 15:07:55 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/edoictas/public_html/helpdesk/processPA.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/edoictas/public_html/helpdesk/processPA.php on line 36
+[17-Jan-2023 07:56:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[17-Jan-2023 07:56:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[17-Jan-2023 08:07:58 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[17-Jan-2023 10:18:53 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[17-Jan-2023 11:09:55 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/edoictas/public_html/helpdesk/processPA.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/edoictas/public_html/helpdesk/processPA.php on line 36
+[17-Jan-2023 12:28:57 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/edoictas/public_html/helpdesk/processPA.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/edoictas/public_html/helpdesk/processPA.php on line 36
+[17-Jan-2023 12:39:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[17-Jan-2023 13:18:27 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[17-Jan-2023 14:07:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[17-Jan-2023 15:14:13 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[17-Jan-2023 15:18:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[18-Jan-2023 08:25:38 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[18-Jan-2023 09:28:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[18-Jan-2023 10:55:32 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[18-Jan-2023 11:14:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[18-Jan-2023 12:42:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[18-Jan-2023 13:11:15 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[18-Jan-2023 14:55:13 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[19-Jan-2023 08:52:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[19-Jan-2023 08:58:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[19-Jan-2023 11:11:20 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/edoictas/public_html/helpdesk/processPA.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/edoictas/public_html/helpdesk/processPA.php on line 36
+[19-Jan-2023 11:11:32 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/edoictas/public_html/helpdesk/processPA.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/edoictas/public_html/helpdesk/processPA.php on line 36
+[19-Jan-2023 11:53:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[19-Jan-2023 11:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/edoictas/public_html/helpdesk/totalTickets.php on line 9
+[19-Jan-2023 11:53:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/edoictas/public_html/helpdesk/totalTickets.php on line 11
+[19-Jan-2023 11:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/edoictas/public_html/helpdesk/totalTickets.php on line 19
+[19-Jan-2023 11:53:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/edoictas/public_html/helpdesk/totalTickets.php on line 22
+[19-Jan-2023 15:52:39 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[23-Jan-2023 10:02:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[23-Jan-2023 10:35:13 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[23-Jan-2023 15:36:59 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[24-Jan-2023 08:04:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[24-Jan-2023 09:33:53 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[24-Jan-2023 10:03:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[24-Jan-2023 10:10:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[24-Jan-2023 10:18:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[24-Jan-2023 10:45:32 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[24-Jan-2023 10:47:17 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/edoictas/public_html/helpdesk/processPA.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/edoictas/public_html/helpdesk/processPA.php on line 36
+[24-Jan-2023 13:56:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[24-Jan-2023 14:02:41 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:1) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[24-Jan-2023 14:13:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/confirmEmail.php(14): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[24-Jan-2023 14:13:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/trayReport.php(28): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[24-Jan-2023 14:13:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/login.php(14): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[24-Jan-2023 14:13:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/totalTickets.php(4): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[24-Jan-2023 14:14:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/countRows.php(11): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[24-Jan-2023 14:14:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/countRows.php(11): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[24-Jan-2023 14:14:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/assignedTasks.php(25): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[24-Jan-2023 14:14:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/getMDAs.php(7): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[24-Jan-2023 14:14:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/getMDAs.php(7): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[24-Jan-2023 14:14:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/confirmEmail.php(14): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[24-Jan-2023 14:14:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/login.php(14): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[24-Jan-2023 14:15:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/totalTickets.php(4): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[24-Jan-2023 14:15:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/trayReport.php(28): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[24-Jan-2023 14:15:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/countRows.php(11): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[24-Jan-2023 14:15:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/countRows.php(11): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[24-Jan-2023 14:15:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/assignedTasks.php(25): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[24-Jan-2023 14:16:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/trayReport.php(28): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[24-Jan-2023 14:16:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/getMDAs.php(7): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[24-Jan-2023 14:16:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/getMDAs.php(7): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[24-Jan-2023 14:16:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/totalTickets.php(4): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[24-Jan-2023 14:16:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/countRows.php(11): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[24-Jan-2023 14:17:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/edoictas/public_html/helpdesk/includes/db_connect.php:8
+Stack trace:
+#0 /home/edoictas/public_html/helpdesk/countRows.php(11): include()
+#1 {main}
+  thrown in /home/edoictas/public_html/helpdesk/includes/db_connect.php on line 8
+[24-Jan-2023 14:17:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:2) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[24-Jan-2023 14:45:28 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:2) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[24-Jan-2023 14:50:26 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:2) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[24-Jan-2023 15:13:22 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:2) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[24-Jan-2023 15:20:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:2) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[24-Jan-2023 15:42:46 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:2) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[24-Jan-2023 15:49:20 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:2) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[24-Jan-2023 16:24:16 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:2) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[24-Jan-2023 16:35:14 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:2) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[24-Jan-2023 16:36:46 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:2) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[25-Jan-2023 07:46:32 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:2) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[25-Jan-2023 07:58:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:2) in /home/edoictas/public_html/helpdesk/login.php on line 69
+[25-Jan-2023 08:03:42 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/edoictas/public_html/helpdesk/includes/db_connect.php:2) in /home/edoictas/public_html/helpdesk/login.php on line 69
